@@ -1,4 +1,4 @@
-# Agentic RAG Chatbot (chat.ipynb)
+# Agentic RAG Chatbot
 
 Replaces manual resume screening with an **Agentic RAG chatbot** built on a **ReAct architecture**: PDF resumes become a **digital resume** recruiters can chat with—asking questions in plain language and getting answers from the document, with the option to open profiles through **Model Context Protocol (MCP) Playwright** integration. Quality is measured by **tool-call accuracy**, **context relevance**, **precision/recall**, **faithfulness**, and **answer relevance**.
 
